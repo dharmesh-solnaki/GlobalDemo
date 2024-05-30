@@ -1,1 +1,18 @@
+<<<<<<< HEAD
 asdcsadcas
+=======
+egfac sdcsadc
+sd
+
+
+dc
+d
+sdc
+asdc
+asd
+cdas
+casdcasd
+ca
+sdc
+asdcasdcs
+>>>>>>> 0b5614f532821de238999a301c4280a03845b00d
